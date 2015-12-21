@@ -12,7 +12,7 @@ Building
       lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z-dev ccache \
       libgl1-mesa-dev libxml2-utils xsltproc unzip
     $ mkdir ~/bin
-    $ PATH=~/bin:$PATH
+    $ PATH=$PATH:~/bin
     $ curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
     $ chmod a+x ~/bin/repo
     $ mkdir brillo
