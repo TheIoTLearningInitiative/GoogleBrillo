@@ -68,6 +68,24 @@ Building
     ============================================
     
     $ make -j4
+
+    Creating filesystem with parameters:
+        Size: 786432000
+        Block size: 4096
+        Blocks per group: 32768
+        Inodes per group: 8000
+        Inode size: 256
+        Journal blocks: 3000
+        Label: /
+        Blocks: 192000
+        Block groups: 6
+        Reserved block group size: 47
+    Created filesystem with 872/48000 inodes and 44242/192000 blocks
+    [100% 21343/21343] Install system fs image: out/target/product/brilloemulator_x86_64/system.img
+    out/target/product/brilloemulator_x86_64/system.img+out/target/product/brilloemulator_x86_64/recovery.img maxsize=802897920 blocksize=2112 total=794013696 reserve=8110080
+    
+    #### make completed successfully (41:01 (mm:ss)) ####
+    
     $ export ANDROID_BUILD_TOP=/path/to/brillo/
     $ ./out/host/linux-x86/bin/brilloemulator-x86
 
