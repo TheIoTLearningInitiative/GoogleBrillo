@@ -71,6 +71,5 @@ Building
     $ export ANDROID_BUILD_TOP=/path/to/brillo/
     $ ./out/host/linux-x86/bin/brilloemulator-x86
     export PS1=’$(whoami)@$(hostname):$(pwd)> 
-    $ ./out/host/linux-x86/bin/brilloemulator-x86
     
 
