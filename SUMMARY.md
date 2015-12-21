@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](documentation/Introduction.md)
-* Architecture
+* [Architecture](documentation/Architecture.md)
 
