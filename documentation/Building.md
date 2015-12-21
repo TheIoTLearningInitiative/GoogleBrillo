@@ -44,6 +44,5 @@ Building
     19. ledflasher-userdebug
     
     Which would you like? [aosp_arm-eng] 9
-    
-    $ lunch brilloemulator_x86-eng
+
     $ make -j4
