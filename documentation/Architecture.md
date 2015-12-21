@@ -8,6 +8,7 @@ Architecture
 - [Bionic Wikipedia](https://en.wikipedia.org/wiki/Bionic_%28software%29)
 
 ## Links
- 
+
+https://appsec-labs.com/portal/iot-compiling-brillo-easily/
 http://www.cnx-software.com/2015/11/23/how-to-build-and-run-brillo-operating-system-from-source-code/
 
