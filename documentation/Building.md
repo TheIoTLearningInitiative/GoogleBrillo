@@ -45,4 +45,26 @@ Building
     
     Which would you like? [aosp_arm-eng] 9
 
+    ============================================
+    PLATFORM_VERSION_CODENAME=REL
+    PLATFORM_VERSION=6.0
+    TARGET_PRODUCT=brilloemulator_x86_64
+    TARGET_BUILD_VARIANT=eng
+    TARGET_BUILD_TYPE=release
+    TARGET_BUILD_APPS=
+    TARGET_ARCH=x86_64
+    TARGET_ARCH_VARIANT=x86_64
+    TARGET_CPU_VARIANT=
+    TARGET_2ND_ARCH=x86
+    TARGET_2ND_ARCH_VARIANT=x86
+    TARGET_2ND_CPU_VARIANT=
+    HOST_ARCH=x86_64
+    HOST_OS=linux
+    HOST_OS_EXTRA=Linux-3.16.0-43-generic-x86_64-with-Ubuntu-14.04-trusty
+    HOST_CROSS_OS=windows
+    HOST_BUILD_TYPE=release
+    BUILD_ID=MASTER
+    OUT_DIR=out
+    ============================================
+    
     $ make -j4
