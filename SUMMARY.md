@@ -2,5 +2,5 @@
 
 * [Introduction](documentation/Introduction.md)
 * [Architecture](documentation/Architecture.md)
-* Building
+* [Building](documentation/Building.md)
 
