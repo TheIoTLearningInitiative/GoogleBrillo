@@ -69,7 +69,8 @@ Building
     
     $ make -j4
 
-    ============================================
+```
+============================================
 including ./abi/cpp/Android.mk ...
 including ./bionic/Android.mk ...
 including ./bootable/recovery/Android.mk ...
@@ -319,6 +320,4 @@ including ./vendor/bsp/intel/userfastboot/Android.mk ...
 No private recovery resources for TARGET_DEVICE brilloemulator_x86_64
 Starting build with ninja
 ninja: Entering directory `.'
-[  2% 437/21383] host C: libhost <= build/libs/host/CopyFile.c
-build/libs/host/CopyFile.c:83:43: warning: unused parameter 'pSrcStat' [-Wunused-parameter]
-static bool isSameFile(const struct stat* pSrcStat, c
+```
