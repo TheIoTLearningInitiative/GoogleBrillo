@@ -68,7 +68,7 @@ Building
     ============================================
     
     $ make -j4
-    ./out/host/linux-x86/bin/brilloemulator-x86
+    $ ./out/host/linux-x86/bin/brilloemulator-x86
 
 ```
 ============================================
