@@ -4,6 +4,7 @@ Building
 
 #install required packages
 
+    $ cd
     $ apt-get update
     $ apt-get install openjdk-7-jdk
     $ apt-get -y -qq install git-core gnupg flex bison gperf build-essential \
