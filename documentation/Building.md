@@ -2,6 +2,8 @@ Building
 ==
 
 
+    $ mkdir brillo
+    $ cd brillo
     $ repo init -q -u https://android.googlesource.com/brillo/manifest
     $ repo sync -q
     $ cd brillo
