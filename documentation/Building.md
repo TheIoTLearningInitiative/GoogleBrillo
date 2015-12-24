@@ -1,6 +1,7 @@
 Building
 ==
 
+```sh
     $ cd
     $ apt-get update
     $ apt-get install openjdk-7-jdk
@@ -19,7 +20,7 @@ Building
     $ cd brillo
     $ source build/envsetup.sh
     $ lunch
-    
+
     You're building on Linux
 
     Lunch menu... pick a combo:
@@ -88,6 +89,7 @@ Building
     
     $ export ANDROID_BUILD_TOP=/path/to/brillo/
     $ ./out/host/linux-x86/bin/brilloemulator-x86
+```
 
 In Brillo
 
