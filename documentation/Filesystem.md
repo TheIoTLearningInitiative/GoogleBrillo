@@ -12,3 +12,9 @@ Filesystem
     default.prop init.environ.rc   proc              sepolicy         
     dev          init.qemu.rc      property_contexts service_contexts 
 ```
+
+
+user@host:~$ adb shell
+* daemon not running. starting it now on port 5037 *
+* daemon started successfully *
+# 
