@@ -13,12 +13,11 @@ Filesystem
     dev          init.qemu.rc      property_contexts service_contexts 
 ```
 
-
+```sh
     user@host:~$ adb shell
     * daemon not running. starting it now on port 5037 *
     * daemon started successfully *
     # 
     # uname -a
     Linux localhost 3.18.0 #1 SMP Mon Dec 21 15:28:33 CST 2015 x86_64
-
-
+```
