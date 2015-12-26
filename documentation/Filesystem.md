@@ -14,7 +14,7 @@ Filesystem
 ```
 
 
-user@host:~$ adb shell
-* daemon not running. starting it now on port 5037 *
-* daemon started successfully *
-# 
+    user@host:~$ adb shell
+    * daemon not running. starting it now on port 5037 *
+    * daemon started successfully *
+    # 
