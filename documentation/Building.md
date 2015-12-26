@@ -88,7 +88,7 @@ Building
     #### make completed successfully (41:01 (mm:ss)) ####
     
     $ export ANDROID_BUILD_TOP=/path/to/brillo/
-    $ ./out/host/linux-x86/bin/brilloemulator-x86
+    $ ./out/host/linux-x86/bin/brilloemulator-x86_64
 ```
 
 In Brillo
