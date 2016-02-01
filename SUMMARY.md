@@ -2,7 +2,7 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
-* Ecosystem
+* [Ecosystem](documentation/Ecosystem.md)
 * [Architecture](documentation/Architecture.md)
 * [Building](documentation/Building.md)
 * [Filesystem](documentation/Filesystem.md)
