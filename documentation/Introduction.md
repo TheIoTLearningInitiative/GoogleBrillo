@@ -1,6 +1,8 @@
 Introduction
 ==
 
+> Brillo brings the simplicity and speed of software development to hardware for IoT with an embedded OS, core services, developer kit, and developer console.
+
 - [Brillo Homepage](https://developers.google.com/brillo/)
 
 ## Intel
