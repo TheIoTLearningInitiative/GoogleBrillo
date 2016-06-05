@@ -4,6 +4,8 @@ Introduction
 > Brillo brings the simplicity and speed of software development to hardware for IoT with an embedded OS, core services, developer kit, and developer console.
 
 - [Brillo Homepage](https://developers.google.com/brillo/)
+- [Open IoT Summit Brillo/Weave Part 1: High Level Introduction](http://events.linuxfoundation.org/sites/events/files/slides/Brillo%20and%20Weave%20-%20Introduction_v3_1.pdf)
+- [Open IoT Summit Brillo/Weave Part 2: Deep Dive](http://events.linuxfoundation.org/sites/events/files/slides/Brillo%20and%20Weave%20-%20Deep%20Dive_v3_0.pdf)
 
 ## Brillo Developer Kit
 
