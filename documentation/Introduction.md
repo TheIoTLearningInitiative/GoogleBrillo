@@ -6,6 +6,7 @@ Introduction
 - [Brillo Homepage](https://developers.google.com/brillo/)
 - [Open IoT Summit Brillo/Weave Part 1: High Level Introduction](http://events.linuxfoundation.org/sites/events/files/slides/Brillo%20and%20Weave%20-%20Introduction_v3_1.pdf)
 - [Open IoT Summit Brillo/Weave Part 2: Deep Dive](http://events.linuxfoundation.org/sites/events/files/slides/Brillo%20and%20Weave%20-%20Deep%20Dive_v3_0.pdf)
+- [Open IoT Summit Brillo OS: Implementing Miniature Smart Home](http://events.linuxfoundation.org/sites/events/files/slides/Constantin_Musca_Implementing_Miniature_Smart_Home_Open_IOT.pdf)
 
 ## Brillo Developer Kit
 
